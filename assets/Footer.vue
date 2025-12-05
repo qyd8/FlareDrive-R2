@@ -25,7 +25,7 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://jd.mynz.eu.org/admin/",
+      homeUrl: "https://j.mynz.eu.org/admin/",
       emailUrl: "https://mail.56789.eu.org/"
     };
   }
