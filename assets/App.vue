@@ -210,7 +210,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "/assets/h.jpg"
+    backgroundImageUrl: "/assets/k.jpg"
   }),
 
   computed: {
